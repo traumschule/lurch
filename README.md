@@ -104,7 +104,7 @@ You can obtain it in the following way:
 __Yes__, it was (briefly) tested with:
 * [Conversations](https://conversations.im/)
 * [The gajim OMEMO plugin](https://dev.gajim.org/gajim/gajim-plugins/wikis/OmemoGajimPlugin)
-* [Mancho's libpurple plugin](https://git.imp.fu-berlin.de/mancho/libpurple-omemo-plugin)
+* [Mancho's libpurple plugin](https://github.com/manchito/libpurple-omemo-plugin)
 
 ### Do encrypted group chats work?
 Yes.
